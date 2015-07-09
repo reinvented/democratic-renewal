@@ -12,10 +12,15 @@ What you'll find here right now are versions of the *White Paper on Democratic R
 * [HTML](whitepaper/html)
 * [Kindle MOBI](whitepaper/kindle) 
 * [Plain Text](whitepaper/txt)
+* [MP3](whitepaper/mp3)
 
 as well as a reference copy of [the original PDF file released by the province](whitepaper/pdf).
 
-These versions were constructed by extracting the plain text from the official PDF file, pasting it into Sigil, and then marking up HTML inside [Sigil](http://sigil-ebook.com/) (with [BBEdit](http://www.barebones.com/products/bbedit/) used for convenience when helpful).  The ePub was saved directly from Sigil; the Kindle version was created using Amazon's web-based ePub-to-mobi convertor, and the HTML version was converted from the ePub using [Calibre](http://calibre-ebook.com/).
+These versions were constructed by extracting the plain text from the official PDF file, pasting it into Sigil, and then marking up HTML inside [Sigil](http://sigil-ebook.com/) (with [BBEdit](http://www.barebones.com/products/bbedit/) used for convenience when helpful).  
+
+The ePub was saved directly from Sigil; the Kindle version was created using Amazon's web-based ePub-to-mobi convertor, and the HTML version was converted from the ePub using [Calibre](http://calibre-ebook.com/).
+
+The MP3 text-to-speech version was created using Mac OS X from Text Edit, selecting *Services > Add to iTunes as Spoken Track*.
 
 <img src="whitepaper/html/cover.jpg" width="350">
 
