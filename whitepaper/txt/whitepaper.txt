@@ -1,0 +1,1362 @@
+Disclaimer
+
+This is an unofficial plain text version of the White Paper on Democratic
+Renewal released on July 9, 2015. The official copy is available as a
+PDF file.
+
+This plain text was created by Peter Rukavina, Hacker in Residence,
+Robertson Library, University of Prince Edward Island, using the open
+source Sigil ePub editor: plain text was copied from the PDF file into
+Sigil, broken into chapters, and formatted using HTML with both Sigil
+and BBEdit, then converted back to plain text and hard wrapping
+applied in BBEdit.
+
+The text file is maintained in a GitHub repository so that it can be
+enhanced and corrected as needed.
+
+--
+
+Foreword
+
+Dear fellow Prince Edward Islanders,
+
+This White Paper on Democratic Renewal presents our province with an
+opportunity to make history in three significant ways: (i) to continue
+with exceptional and nation-leading rates of voter participation, (ii)
+to become the first Canadian jurisdiction to move beyond the “first
+past the post” system in choosing our elected representatives, and
+(iii) to consider additional and timely measures to enhance our
+democratic process.
+
+Throughout our history, Prince Edward Island has benefited from
+democratic renewal and evolution. Significant milestones include the
+establishment of responsible government (1851) and extending the right
+to vote in provincial elections to Roman Catholics (1830), women
+(1922) and aboriginal people (1963). Other significant steps include
+the re-introduction of the secret ballot (1913) and the move to
+single-member constituencies (1994).
+
+With two decades having passed since the electoral reforms of 1994 and
+with a legal requirement that electoral boundaries be redrawn before
+the next provincial election, it is timely for Prince Edward Islanders
+to engage in a further and historic renewal of our democratic
+institutions. This White Paper has been prepared with contributions
+and expert input by Dr. Edward MacDonald and senior public service
+officials.
+
+The White Paper invites all Islanders to work together as we build on
+our traditions and context to put Prince Edward Island on the map for
+our democratic processes and rates of participation. Thank you for
+your consideration and input.
+
+Sincerely,
+H. Wade MacLauchlan
+Premier
+
+Introduction
+
+In an era of concern about the health of democracy, Prince Edward
+Island stands out in many positive ways. Islanders lead the country in
+their voter turnout, their interest and engagement in politics, and
+their contributions to their communities and to civil society. Prince
+Edward Island’s 2015 election campaign featured vigorous debate on
+policy issues, and generated the highest voter turnout in three
+decades. When the ballots were counted, a strong Opposition had been
+elected, including a seat for the Green Party for the first time in
+Island history, and a Government with a working majority in the
+Legislative Assembly.
+
+Our newly elected Government has pledged, in the June 2015 Speech from
+the Throne, to "initiate and support a thorough and comprehensive
+examination of ways in which to strengthen our electoral system, our
+representation, and the role and functioning of the Legislative
+Assembly."
+
+This initiative recognizes that it is timely to explore democratic
+renewal for many reasons. Our society is changing continuously,
+becoming ever more diverse and mobile. It is clear, in Prince Edward
+Island and across Canada, that a system established by the stable,
+homogenous community-centred society of the 1800s requires review and
+renewal to meet the needs of the twenty-first century. Islanders’ high
+level of political engagement does not necessarily translate into a
+high level of satisfaction with our electoral system. Many Islanders
+have articulated a view that their votes are not resulting in fair
+representation in the Legislature that reflects the diversity of our
+society.
+
+This is the best of all possible times, then, to tap into the strong
+interest that Islanders take in political discourse, to ask what we
+collectively want from our democratic system, and to discuss how to
+safeguard our strengths while gaining the benefits of democratic
+renewal and new approaches. We are not facing a crisis of democracy –
+but we are experiencing pressures, they may intensify, and we can
+always strive to do better.
+
+This White Paper focuses on exploring the potential for an improved
+electoral system. The most fundamental decision in a democracy, the
+core right of every adult citizen, is to choose the people who will
+make decisions on his or her behalf. The way in which this is done has
+wide-ranging impacts. The electoral system affects the nature of
+political campaigns, the type and diversity of candidates, the
+fairness of representation, and the tone of political discourse. It is
+essential that this fundamental matter be considered as Prince Edward
+Island moves ahead with its review of electoral district boundaries
+that is required by law after the 2015 general election. Following
+these foundational steps, further consideration can be given to other
+important elements of our democratic system and processes.
+
+The White Paper inaugurates this work. It outlines the history of our
+electoral system in Prince Edward Island, explains recent electoral
+reform trends and approaches across Canada and beyond, and notes
+emerging pressures for change. The Paper puts forward measures that
+address electoral concerns of Islanders, while inviting discussion on
+additional areas of reform. It concludes with a description of the
+various ways in which Islanders can take part in this process of
+democratic renewal.
+
+A History of Democratic Evolution in Prince Edward Island
+
+According to French thinker Joseph de Maistre, “Every country has the
+government it deserves.” Perhaps it is more accurate to say that our
+forms of government are deeply embedded in their communities. Even as
+a political system is created or transplanted, it begins to interact
+with the particular – and changing – circumstances of its host
+society. Such institutions are rooted in history and they become
+adapted to local context and experience.
+
+De Maistre’s maxim was first published in 1851. That same year, Great
+Britain reluctantly granted “Responsible Government” to Prince Edward
+Island, and Reform leader George Coles became our first premier. But
+making government more “responsible” to the electorate, that is, a
+system where the executive branch of government is chosen from the
+party that commands a majority in its elected legislative branch, was
+neither a culmination nor a beginning. Rather, it was a landmark on a
+continuum of change. Sometimes change was coloured by short-term
+political considerations and, increasingly, it confronted the inertia
+that results when past usage hardens into “tradition.” It has always
+reflected societal conditions.
+
+The Creation of Colonial Government
+
+Aside from the traditional forms of governance developed by aboriginal
+peoples over thousands of years and Île Saint-Jean's status as a
+satellite of the Royal government in Louisbourg, there was little
+framework for local government on Prince Edward Island1 before the
+advent of British rule in 1763. In 1769, the island was granted
+colonial status, with all of the administrative machinery that came
+with it, including provision for a governor (after 1784 reduced to a
+lieutenant-governor), a council and an elected assembly (MacKinnon).
+
+Although the province's current name was not officially adopted until
+1799, for simplicity's sake, "Prince Edward Island" is used
+throughout.
+
+Frontier conditions dictated how the trappings of colonial government
+were translated to the new colony. When Governor Walter Patterson
+named his first Council in 1770 from among "the principal inhabitants"
+of the colony, there were too few "principal inhabitants" to fill the
+initial complement of twelve councilors and he began with only seven.
+(MacKinnon) For similar reasons, Patterson was reluctant to summon an
+elected assembly and only did so in July 1773 when doubts were
+entertained about whether his government could enact legislation
+without the consent of the governed. In a colony lacking both settlers
+and transportation infrastructure, Patterson found it expedient to
+treat the entire colony as a single constituency and to limit the size
+of the House of Assembly to 18 members.
+
+British practice was to restrict the right to vote to substantial
+property owners (with property initially defined as land) on the
+principle that only civic-minded property owners, having a greater
+stake in the country, should have a say in governing it. But on Prince
+Edward Island, principle had to be sacrificed to pioneer realities,
+and the only qualification required of its first voters was that they
+be male, Protestant and residents. With the convening of a House of
+Assembly, the Council began a dual function, acting as an upper house,
+or Legislative Council, “to advise and consent,” while retaining its
+role as an Executive Council, “to advise and assist.” In 1784, the
+Executive Council was set at nine members and the Legislative Council
+at twelve, but since the former was chosen from the latter, it was
+difficult in practice to distinguish between the two. (Carruthers)
+
+A Century of Reforms
+
+The early precedent of adapting British practice to local conditions
+set the tone for the series of modifications that followed during the
+19th century. While political considerations might influence the
+timing of change, a growing colony required frequent adaptations of
+its constitutional arrangements.
+
+In 1774, legislation laid the groundwork for an electoral process,
+leaving the Governor with considerable discretion in the timing and
+nature of elections (although until 1834, the death of the monarch
+automatically triggered the election of a new house). Exercising that
+discretion, Lt. Gov. Edmund Fanning divided the colony into three
+constituencies, based on its counties, in 1787, with four members
+elected at large for each county, and two from each county capital.
+However, the first Election Act was not introduced until 1803
+(Carruthers), and it was 1806 before a term length for the Legislature
+was fixed: seven years, amended to four in 1833. (MacKinnon, 53)
+
+By the 1830s, immigration and natural population increase were
+transforming the human and physical landscape of the colony. Between
+1798 and 1855, the population soared from less than 4,300 people to
+over 71,000 (Spierenburg, 18). One effect was to engender debate about
+the emancipation of Roman Catholics, who comprised 45% of the colony’s
+population but were barred from voting or holding public office. They
+were finally enfranchised in 1830.
+
+The enlarged electorate no doubt radicalized Island politics, since
+many Roman Catholic voters were tenants opposed to the leasehold land
+tenure system. That, in turn, empowered the radical Escheat Party,
+which won control of the House of Assembly in 1838. While the
+Escheaters were unable to legislate seizure of proprietorial estates,
+they did preside over a series of constitutional reforms. The Election
+Act of 1838 enlarged the House of Assembly to twenty-four members, and
+four dual-member electoral ridings (including each county capital)
+were carved out of the old county constituencies. In 1856, the House
+was enlarged again, to 30 members, chosen from five dual-member
+ridings in each county. Even in 1856, the convenience – and precedent
+– of using county/capital subdivisions defied the Island’s demography.
+Queens County’s population already outstripped Prince and,
+particularly, Kings County, yet each retained an equal number of
+seats.
+
+The only concession to population realities addressed the seats
+apportioned to County capitals. The problem in Prince County was
+resolved in 1861 when the capital was formally shifted from moribund
+Princetown to Summerside (Carruthers, 19), while the low population in
+Georgetown and Royalty was addressed in 1893 by enlarging the riding
+to encompass a series of headlands roughly centered on Cardigan Bay
+and linked by the prevalence of water transportation. (MacKinnon v.
+Government of PEI, PEI Supreme Court, Trial Division, 1993). While
+unremarked at the time, this was perhaps the first instance of using a
+specially defined community to draw constituency boundaries. The
+artificial boundaries of 5th Kings made some sense in a pre-asphalt
+era when roads remained poor (at best) and water/ice provided the most
+effective means of transportation.
+
+One of the chief obstacles to land reform in the 1830s and 1840s was
+the appointed Council, filled as it was with men of substance
+materially vested in maintaining the status quo. In 1839, a year after
+the House of Assembly was enlarged, the two Councils, Legislative and
+Executive, were formally separated, making it possible for members of
+the House of Assembly to serve on the Executive Council. The essence
+of Responsible Government, achieved in 1851, was to deliver control of
+the Executive Council (colloquially, the Cabinet) into the hands of
+the party that controlled the elected Assembly.
+
+The Legislative Council, too, was targeted for reform, especially
+after the House of Assembly achieved supremacy. Appointed by the
+monarch on the recommendation of the Governor, Legislative Councillors
+served "during pleasure," but in practice it was difficult to dismiss
+them without demonstrably just cause. Thus, when elections changed
+control of the Assembly, the Upper House was frequently filled with
+political opponents appointed under previous administrations, who
+could only be removed from office by death, disgrace, resignation or
+emigration. One way around their obstruction was to appoint more
+Councillors – in 1859 the size of the Legislative Council swelled to
+seventeen members – but the simpler solution was to bind the Council
+to the will of the electorate by making it elective. The reformed
+Legislative Council, established by statute in 1862, consisted of
+thirteen members, four from each county, with one member from
+Charlottetown. (MacKinnon, 102-03) Although it was now elective, the
+Council was still intended to represent men of property. While there
+was no property qualification for candidates, electors had to be males
+over the age of twenty-one and have freehold and/or leasehold property
+to the value of £100.
+
+In the colonial House of Assembly, the property qualifications
+continued to be minimal. In practice and, finally, in principle, the
+Assembly was chosen by universal (adult) male suffrage. The manner of
+its election was more variable. In the wake of the notorious Belfast
+Riot, the culmination of a long tradition of election-day violence,
+multi-day voting was abolished in 1848 in order to eliminate the
+practice of partisan mobs roaming from poll to poll, intimidating
+voters.
+
+Another invitation to voter intimidation was addressed in 1877 when
+election by secret ballot, accompanied by voters’ lists and
+regularized polling procedures, replaced open, oral voting. But in
+this case, cost trumped conscience. The measure was enacted just as
+Island governments were beginning to discover the woeful inadequacy of
+their revenues under Confederation, and the Sullivan government, newly
+elected on a platform of financial retrenchment, repealed the secret
+ballot in 1879. It was only reintroduced in 1913 by a Conservative
+administration proud of its progressive approach to government – and
+temporarily buoyed by a $100,000 per year increase in its federal
+subsidy. Even so, it would be 1964 before voters’ lists were required
+for general elections, and a chief electoral officer appointed.
+
+The same cost-cutting mentality that abandoned the secret ballot also
+took aim at the province’s upper house. After Confederation in 1873,
+Prince Edward Island sported six federal Members of Parliament, a
+thirty-member House of Assembly and a thirteen-member Legislative
+Council. Surely, critics reasoned, that was more than enough
+representatives for one small province. Legislation to abolish the
+Legislative
+
+Council was first introduced in 1879, but the rights of property
+proved much more durable than the new voting system. It took several
+attempts, the precedent-setting example of several other Canadian
+provinces, and considerable, unrecorded backroom negotiation before
+the Legislative Council was finally done away with – after a fashion –
+in 1893.2
+
+The new Legislature uniquely welded the Legislative Council onto the
+House of Assembly to create a new, thirty-seat “Legislative Assembly”
+elected from 15 dual-member ridings. Each constituency was represented
+by a Member of the Legislative Council (MLC) and a Member of the
+Legislative Assembly (MLA), which allowed for one-on-one contests at
+the polls and, just as important, allowed opposing parties to match
+candidates according to religion. The latter consideration was a
+legacy of the bitter sectarian rivalries of the 1856-1877 period
+(pitting the Roman Catholic plurality against the Protestant
+majority), which had exerted a dangerously corrosive effect on party
+loyalties. Religion had not ceased to matter by the 1890s, but it had
+gone underground as a political issue, and keeping it “out of
+politics” meant that it remained a central, backroom consideration for
+another century.
+
+Once in the House, MLAs and MLCs functioned in exactly the same
+fashion; the only difference lay in how they got there. Assemblymen
+were elected according to universal male suffrage, while a property
+franchise was retained for those electing Councillors (though, again,
+not for candidates). To vote for Councillor in any constituency,
+electors must own $325 worth of property in that riding.3 Property
+owners could vote only once for Councillor in a given constituency,
+but they could vote in any riding where they met the property
+requirements. In a province where the two principal parties were
+evenly matched in terms of popular support (10% of all elections
+between 1893 and 1963 were decided by twenty-five or fewer votes)
+(Clark), electors with multiple votes were a valuable commodity.
+
+A Century of Stasis
+
+The paroxysm of reform that produced the hybrid legislature of 1893
+was a high water mark of sorts in terms of constitutional change.
+Dogged by outmigration and economic stagnation, the Island did not
+tend towards bold experimentation. The belated re-adoption of the
+secret ballot in 1913 was perhaps the exception that proved the rule.
+Another was the foot-dragging decision in 1922 to enfranchise 50% of
+the Island’s population, its women (If You’re Stronghearted).
+Considering that the Legislature had first voted on the issue in the
+1890s, and that only Quebec and Newfoundland and Labrador among
+Canadian provinces took longer to give women the vote, women’s
+suffrage on Prince Edward Island was hardly the crest of a
+constitutional wave. It was 1951 before a woman ran for the
+Legislature (Hilda Ramsay, for the provincial CCF party) and 1970
+before a woman (Jean Canfield) was elected. Prince Edward Island was
+proud to become the first province to elect a female premier,
+Catherine Callbeck, in 1993. While female candidates tend to be
+popular with voters, and the percentage of female candidates continues
+greatly to lag the percentage of women in the larger population.
+(Crossley)
+
+Another historically disenfranchised group, First Nations peoples,
+received the right to vote in provincial elections in 1963. There was,
+however, little thought given then, or since, to whether the Island’s
+original inhabitants might be entitled to special representation
+within its Legislature.
+
+The Davies government’s bill was lost when it was defeated in 1879,
+and the Sullivan government’s 1880 bill was defeated in the
+Legislative Council. The Upper House at the time was said to cost
+$7,000 per year. (Driscoll)
+
+According to Marlene Russell Clark, a non-resident could also vote for
+Assemblyman in any riding where he owned property worth at least $100.
+
+Although shifting demographics gradually tilted the population towards
+urban centres, riding boundaries remained unchanged for seventy years,
+partly because the principal political parties were too evenly matched
+to risk radical change (Clark). However, after being out of office for
+twenty-four years, the Conservatives were understandably more open to
+a measure of reform when they came to power in 1959. In any case, the
+population imbalance between urban and rural constituencies had become
+too great to be ignored for much longer. In a larger sense, the reform
+impulse must also be seen in the context of accelerated modernization
+that characterized postwar Prince Edward Island.
+
+In 1961 the Shaw Government appointed the Royal Commission on
+Electoral Reform, chaired by His Honour J. S. DesRoches, Judge of the
+County Court of King’s County. The Royal Commission’s report was
+tabled in 1962. The resulting legislation, the Election Act of 1964,
+in some cases went beyond the Commission’s recommendations. Although
+the distinction between Councillor and Assemblyman was retained,
+multiple voting and the property franchise were eliminated. The most
+contentious clause was actually added by amendment during debate: the
+elimination of the under-populated riding of 5th Kings and the
+creation of 6th Queens to belatedly reflect the growing population
+around Charlottetown. (Carruthers; Russell Clark) With a general
+election in the offing, the Government found it expedient to restore
+5th Kings in 1966, resulting in a Legislature of thirty-two members.
+
+Despite the modest re-distribution of the early 1960s, the question of
+voter parity among Island ridings continued to bedevil lawmakers into
+the 1970s, even as an ambitious Comprehensive Development Plan sought
+to rationalize and re-shape the Island’s economy and society. In 1974
+the Legislature appointed an Electoral Boundaries Committee, which, in
+turn, delegated a sub-committee to canvass public opinion on the
+issue. General apathy attended its hearings. Consensus favoured
+replacing the existing constituencies with thirty-two, single-member
+ridings based on the four federal ridings rather than the three
+counties. For the first time a form of proportional representation was
+introduced into the discussion, but only in the sense that interveners
+stipulated creation of twenty-six identifiably “rural” ridings and six
+“urban” ones (Committee report). In its report, the Committee
+generally ignored the sub-committee’s findings, and in turn its
+recommendations were not proceeded with by the Legislature. In 1988
+legislative provision was made for a regular adjustment of riding
+boundaries. (Electoral Boundaries Act R.S.P.E.I. 1988 Cap. E-2.1)
+
+Agents of Change
+
+It took legal action to overcome the Legislative Assembly’s reluctance
+to tamper with a constituency system that seemed to be working (voter
+turnouts, after all, were consistently among the highest in Canada).
+Basing his case on Section 3 of the Canadian Charter of Rights and
+Freedoms (guaranteeing voting rights), Charlottetown resident Don
+MacKinnon launched a suit against the Provincial Government in 1991,
+arguing that the significant population imbalance between Island
+constituencies essentially meant that his vote counted for less than a
+vote in a rural riding. Census numbers backed his claim. By 1989, 5th
+Kings had 1,021 voters per member while 5th Queens had 5,982. The
+provincial average was 2,788 voters per member; the variance from the
+average thus ranged from -63% to +115%. Federally and in most other
+provinces, the allowable deviation was +/- 25%.
+
+In finding that Prince Edward island’s distribution of seats did not
+satisfy constitutional requirements, the Prince Edward Island Supreme
+Court (Justice Armand Desroches) sought “effective representation” by
+balancing “absolute voter parity” with mitigating, non-population
+factors such as community history, community interest, projected rates
+of growth, and special geographic features. While Justice Desroches
+opined that the protection of historic rural interests warranted a
+measure of flexibility, he ruled that redistribution must follow
+further, timely investigation.
+
+The decision set the stage for significant electoral reform. In 1994,
+the Election Act and Electoral Boundaries Commission, chaired by MLA
+Lynwood MacPherson, proposed a sweeping reform of the Legislature,
+abolishing the dual member structure in favour of thirty single-member
+ridings. The county format was retained, but seats were re-apportioned
+according to population: ten in Prince County, fifteen in Queens, and
+only five in Kings (Carruthers). Liberal member Ross Young
+counter-proposed a 27-seat House with a 9:13:5 distribution of seats.
+His compromise bill was at length adopted. (Electoral Boundaries Act,
+S.P.E.I. 1994, c. 13)
+
+In his 1993 ruling, Justice Desroches had echoed others’ position that
+electoral boundaries be adjusted by a non-partisan, independent
+commission. While the number of seats in the Legislature was now set,
+the periodic necessity of re-drawing constituency boundaries proved
+equally contentious. Evidently believing that the 2004 Report of the
+Electoral Boundaries Commission had privileged voter parity over
+mitigating considerations such as “community concerns,” the
+Conservative government appointed a Special Legislative Committee on
+Electoral Boundaries, which involved Elections PEI in the process of
+boundary-drawing (Report of Committee). After much tinkering, the new
+electoral map was approved by the Legislature with a mandated variance
+of +/-15% in the population of ridings.
+
+The constitutional quest for “voter parity” drove the electoral reform
+of 1994 and the periodic re-jigging of constituency boundaries that
+has followed. But it also opened up another line of debate, this time
+over voting systems. Since 1773, elections had been decided by the
+traditional “First-Past-the-Post” [FPTP] or plurality model; put
+simply, the candidate with the greatest number of votes wins. As many
+political observers noted, the plurality system rarely mirrored the
+popular vote. Although a party might garner a significant share of the
+popular vote, those votes often failed to translate into seats.
+Indeed, the increasing trend in Island politics by the late 1990s was
+towards huge majorities based on a relatively modest majority of the
+popular vote (Carruthers, Cousins). Frequently reduced to one or two
+members, the Official Opposition was challenged to function
+effectively in the Legislature, Out of seven general elections from
+1989 to 2011, only one, in 1996, resulted in a balanced majority.
+
+During its round of public hearings in 1994, the MacPherson Commission
+heard for the first time serious advocacy of some form of Proportional
+Representation to either supplement or replace the existing
+“first-past-the-post” system. The opinions mirrored a national trend,
+largely impelled by declining voter engagement, toward electoral
+reform. After being returned to power with a crushing majority in
+2000, Premier Pat Binns gingerly took up the issue.
+
+After preliminary investigations by Elections PEI, retired Chief
+Justice Norman Carruthers was appointed a one-man commission in 2003
+to investigate the appropriateness of adopting alternate systems of
+voting on Prince Edward Island. Carruthers’ report recommended
+adoption of a Mixed Member Proportional System, with twenty-one seats
+elected by the existing plurality system and ten additional members
+elected on a separate ballot from party lists (Carruthers). In 2004,
+the Commission on Prince Edward Island’s Electoral Future adjusted
+Carruthers’ seat breakdown to seventeen and ten, respectively
+(McKenna). The option was then put before the electorate in a 2005
+referendum.
+
+Although Carruthers had encountered considerable public apathy in the
+course of his public hearings, the referendum campaign reached a wider
+audience. Advocates of the Mixed Member Proportional scheme stressed
+that the composition of the House would more closely reflect the
+popular vote – no one’s vote would be “wasted”; that it would produce
+stronger Oppositions and more diverse Legislatures, making Governments
+more responsible to the people; that more women and minorities would
+enter the House; that forms of Proportional Representation had become
+the norm rather than the exception around the world. Opponents warned
+of Party lists stacked with hand-picked “party insiders” and/or urban
+elites; of unstable coalition governments since no party was likely to
+win an absolute majority; of special interest, fringe parties that
+would paralyze the business of the House.
+
+Many voters simply may have felt the system didn’t need fixing. Others
+may have been discouraged by Premier Binns’ announcement that a “yes”
+would require 60% of the total votes cast as well as a majority in 60%
+of the twenty-seven ridings, an almost impossible expectation. In any
+event, only 33% of the electorate turned out to vote in the
+referendum. Of those that did, 64 % voted “no.” (McKenna).
+
+Prospects
+
+The fate of the Proportional Representation referendum offers a number
+of potential lessons. In the end there were two levels of opposition
+to Proportional Representation: those that opposed Proportional
+Representation on principle and those who opposed the particular model
+being proposed. Echoing the position of earlier legislative
+committees, other opponents claimed that their position did not mean
+“no,” merely “not yet.” Apathy may have played a part, but complacency
+seems less likely. As Hon. Norman Carruthers argued in his Report, the
+political history of Prince Edward Island has been characterized by
+change rather than stasis. And societal change will continue to force
+our political institutions to adapt. As the number of urban and
+“rurban” 4 inhabitants continues to rise, as other special interest
+groups assert their claims to consideration, as legal challenges
+continue to overturn established practice, as our definition of what
+constitutes “community” transcends physical geography, as our culture
+continues to diversify, our democracy will be confronted with the
+necessity – but also, the opportunity – of renewal.
+
+That is, “rural” by census definition but living in close physical,
+vocational, and cultural proximity to urban centres.
+
+Canadian Discussions on Electoral Reform
+
+Prince Edward Island has been among several Canadian provinces which
+have carried out major public engagement exercises on electoral change
+in recent years. These initiatives were sparked by generally similar
+factors, notably an increasingly mobile and diverse electorate with
+fewer ties to a particular geographic location or party identity.
+
+As well, the First Past the Post (FPTP) system, rooted in tradition
+and primarily designed for a two-party state, was seen as poorly
+suited to a multi-party system. As additional parties emerged and
+grew, they pointed to perceived flaws of the FPTP system, including
+lopsided majorities, weak Oppositions, heightened regional tensions
+and conflict, and under-representation of voices which were outside
+the mainstream or diffused across the country.
+
+Alienation grew, as more voters, regions, and communities of interest
+felt disempowered and excluded from elected representation. There was
+marked decline in trust and confidence in governments, and lower voter
+turnout, especially among young Canadians. Many citizens were
+demanding a greater voice in the decisions affecting them.
+
+The mid-1990s into the 2000s were a time of perceived democratic
+malaise and a search for a better way. These change initiatives – in
+British Columbia, Ontario, Quebec, New Brunswick, and Prince Edward
+Island – not only explored new electoral models, but also often did so
+in new and more inclusive ways:
+
+The reform wave began in Quebec, with the appointment of an Estates
+General on the Reform of Democratic Institutions (the Béland
+Commission) in 2002. The Estates General reported in March 2003,
+recommending a change to a system of regional proportional
+representation. In December 2004, government introduced a draft bill
+proposing various reforms including a variant of a proportional
+representation electoral system. In subsequent processes and
+consultations, divergent views emerged on the appropriate model, and
+the initiative was eventually shelved.
+
+In January 2003, Prince Edward Island appointed the Honourable Norman
+Carruthers to examine options for electoral reform, making PEI an
+early leader in this wave of reform. The process and the ensuring
+rejection of reform in the 2005 plebiscite have been described above.
+
+In 2004, British Columbia established a Citizens' Assembly, a group of
+160 people mostly drawn from a randomly generated list of voters from
+each riding, and gave the Assembly a year and a budget of over $5
+million to do their work. The new system recommended by this process
+(the “Single Transferable Vote”) almost succeeded in winning the
+required 'supermajority' of public support. It won 57% – but not the
+needed 60% – of the provincial vote, and gained majority support in 77
+of the 79 ridings. A subsequent reworking of the model and a second
+referendum in 2009 fell well below these levels of support, winning
+only 39% support province-wide and seven of 85 electoral districts.
+
+During 2004, New Brunswick's Commission on Legislative Democracy
+studied and consulted the public on options for electoral reform,
+ultimately recommending a change to a mixed proportional
+representation approach. The then government committed to take the
+proposal to the public via a referendum, but following a change of
+government in 2006, this did not occur.
+
+In October 2003, Ontario established the Democratic Renewal
+Secretariat within the Office of the Attorney General, with a mandate
+to examine ways to strengthen democracy. Initiatives included a move
+to fixed election dates, increased disclosure of campaign donations,
+and, in late 2004, appointment of a Citizens' Assembly to examine
+electoral reform options. In May 2007, the Assembly reported,
+recommending a move to a mixed proportional representation system. The
+recommendation went to a referendum in conjunction with the October
+2007 provincial election, and was decisively defeated, gaining 37%
+support compared to 63% for the existing FPTP system.
+
+During 2003 and 2004, the Law Commission of Canada carried out a major
+study and public engagement effort to explore the case for electoral
+reform and to propose options, ultimately leading to a recommendation
+for a mixed member proportional system.
+
+All of these processes concluded that the current FPTP system offered
+the fewest strengths, and most recommended a mixed member proportional
+system as providing the best balance of benefits. Where processes were
+prolonged, they became vulnerable to changes in government or
+priorities. However, regardless of duration, in the three provinces
+where the process was completed and a new system was submitted to the
+electorate in a referendum – Prince Edward Island, British Columbia,
+and Ontario – 60% or more of those who voted ultimately opted to
+retain the existing system.
+
+Despite these relatively recent outcomes, electoral reform is once
+more a key topic of political discourse. Again, Prince Edward Island
+is a leader, with the Throne Speech's commitment to examine electoral
+reform, and the release of this White Paper. Since Prince Edward
+Island’s Throne Speech on June 4 2015, the province of Alberta has
+also committed to examine electoral reform, and the Liberal Party of
+Canada has made it a core part of its platform for the coming federal
+election campaign. The New Democratic Party, meanwhile, has long been
+a proponent of electoral reform. In Ontario, the road is clear for its
+cities and towns to move to a preferential ballot system that would
+enable voters to rank their choices – ensuring that every councillor
+is elected with a majority of voter support.
+
+With the re-emergence of public discussion around these reform
+initiatives, comment has emerged in the media on possible reasons for
+the failure of past attempts. According to Andrew Coyne of the
+National Post, “The biggest impediment to reform, where it has been
+attempted, has been the fear of the unknown – the public’s instinctive
+attachment, when forced to choose, to the status quo, as against some
+other system that, whatever frustrations they may have with the
+present system, can always be made out to be something worse: risky,
+untried, foreign.” More simply, Conrad Yakabuski of the Globe and Mail
+recently opined that electoral reform excites “earnest young academics
+and policy wonks who think our democracy is broken. But as attempts at
+electoral reform in a few provinces have now shown, voters don’t
+generally trust a bunch of elites to fix it.”
+
+These opinions may overstate the role played by fear and mistrust in
+defeating past efforts at reform. Nonetheless, it is fair to say that
+reform is most likely to win support when it is grounded in the
+history, values, needs, and circumstances of its society. As noted by
+Chief Elections Officer Merrill Wigginton in his 2002 Report on
+Proportional Representation, “...each and every country using
+Proportional Representation (PR) uses a system particular to that
+country. In fact, if there are 124 countries throughout the world
+using PR then there appears to be at least 120 different systems of
+PR.”
+
+It is clear that changes to such a fundamental element of democracy
+cannot simply be transplanted in Prince Edward Island and expected to
+take root. In effect, our efforts must be grown from seed here: our
+reforms must be made in Prince Edward Island, by Islanders, and for
+Islanders. We have a long and proud history of electoral evolution
+upon which we can draw.
+
+Accordingly, the following section sets puts forward directions for
+electoral change that build on our past, achieve progress on important
+issues facing us today, and enable further change and renewal in the
+longer term.
+
+Ideas for Change in Prince Edward Island
+
+Finding a Balance: Exploring A New Model of Electoral Reform
+
+Electoral systems are composed of three elements, each with several
+options:
+
+The basic voting system, or how votes are translated into seats: A
+plurality system (winner take all or first past the post), in which
+the candidate with the largest number of votes wins, even if he or she
+has less than half the votes
+
+A majority system, in which the candidate must gain at least 50% plus
+one of the votes to win
+
+A proportional representation system, where the overall shares of
+votes in the district or province or country are converted into shares
+of the seat total and distributed via party lists or other means
+
+The size of electoral districts, in terms of both geographical size
+and number of candidates: Smaller single-member constituencies, Prince
+Edward Island’s current system
+
+Larger districts or regions with two or more candidates per party, the
+system used in Prince Edward Island with dual member constituencies
+from 1893 to 1994
+
+The whole jurisdiction with candidates presented via party lists
+
+The structure of the ballot, or the way in which voters mark their
+preferences: One choice for a single candidate, PEI’s current system
+
+Two or more choices, such as voting for two or more representatives in
+a district, or voting for a candidate and separately for a party (this
+latter system is often used in proportional representation systems)
+
+Ranked choices of two or more competing candidates from most to least
+preferred, or the so-called “preferential ballot”.
+
+These elements can be combined into an enormous number of variants,
+making the choices for the electorate complicated. For example, the
+mixed member proportional representation systems so widely rejected by
+voters in British Columbia, Ontario, and Prince Edward Island
+generally involved a combination of a first-past-the-post and
+proportional representation voting systems and an element of large
+multi-member districts.
+
+In this context, it is worthwhile to explore whether practical,
+straightforward alternatives can be found that offer options to
+improve our system in a way that sustains what we value and that is
+acceptable to a majority of Islanders. These ideas recognize that
+there is no perfect system, and that every system seeks workable steps
+that can be implemented. They also recognize that our Island history,
+for two centuries, has been one of gradual adaptation to a changing
+society and a changing world.
+
+The model put forward in this White Paper particularly draws on Prince
+Edward Island’s history of dual member ridings and on the longstanding
+approach widely used in PEI and elsewhere to nominate candidates and
+party leaders. It proposes a modern update.
+
+The new elements of this model include:
+
+a combination of four large districts aligned with our four federal
+ridings, and six small single-member ridings within each of those
+districts, yielding a total of 28 Members of the Legislative Assembly;
+and
+
+a move to a preferential ballot system in both types of district to
+ensure that every candidate must win the support of at least half
+their constituents to gain elected office.
+
+Also discussed are measures to encourage greater diversity and
+representativeness in all candidates.
+
+Dual Electoral Districts
+
+The proposed model of four large districts based on federal riding
+boundaries, and six small single-member ridings within each of those
+districts has a number of implications.
+
+With regard to the design of the large and small districts:
+
+The four large districts would be kept relatively even-sized as a
+result of federal electoral boundary change and ongoing modifications
+to these boundaries by Elections Canada.
+
+The twenty-four individual districts can be designed to reflect the
+factors that have always been important to Islanders, including a
+balance of rural and urban representation and protection of linguistic
+minorities.
+
+The twenty-four individual ridings would have an average of about
+4,200 voters, still small enough to maintain the close relationship
+between elected member and voter that Islanders value so highly.
+
+The four federal ridings align well to historical community patterns,
+create a clear separation between the capital city and the rest of the
+province, and exhibit internally consistent socioeconomic
+characteristics.
+
+With regard to the move to a renewed version of a dual-member system:
+
+Islanders are familiar and comfortable with the concept of a
+dual-member system, as it served as our democratic model until two
+decades ago.
+
+The fact that every voter will be represented by two members of the
+legislature – one local and one regional – provides more opportunities
+for choice, interaction, and representativeness.
+
+Some types of systems, such as mixed member proportional
+representation, create fears of “two-tier” members of the legislature,
+in which the party list members from the large districts are seen as
+having less credibility than members elected directly in local
+districts. This concern does not arise with the present proposal, as
+both types of candidates would be directly elected by a majority of
+the voters in the district.
+
+Historically, PEI’s system of dual-member ridings was used by parties
+to reflect the religious diversity of the electorate. Our society
+today has more dimensions of diversity that should be reflected in our
+legislature, and this proposed system of individual and regional
+ridings offers opportunities to promote that.
+
+Preferential Ballot System
+
+The debates and reform proposals of the recent past have tended to a
+choice between some form of proportional representation or the status
+quo. The ballot system this White paper puts forward is a preferential
+form. Voters would receive a two-part ballot on Election Day. On one
+half, the voter would indicate his or her preferences, in order, for
+the candidates in the local district, with “1” being the preferred
+candidate, “2” the second choice, and so on. It would be the voter’s
+choice as to whether to indicate only one preference, or two or more,
+from among the candidates offering.
+
+On the second part of the ballot, the voter could express his or her
+preferences with regard to the candidates for each of the parties
+offering in the large district aligned with the federal riding. Again,
+the voter could rank as many candidates as wished.
+
+The votes would be counted and any candidate receiving over 50% of the
+total vote in the first round would be declared elected. For those
+candidates receiving less than half the vote, the lowest ranked
+candidate would be dropped from the list, and the second choices of
+that candidate’s supporters would be counted. This process would
+continue until a candidate won a majority of votes.
+
+This approach, which has long been used within political parties to
+select leaders and candidates for office, has several positive
+implications:
+
+It gives voters a greater voice and reduces the number of “wasted
+votes.”
+
+In so doing, it increases the electoral influence of supporters of
+smaller and newer parties, as those preferences are most likely to be
+counted first in working toward the 50% plus one.
+
+It ensures that all winning candidates enter office with the support
+of a majority of their constituents.
+
+More subtly, it promotes a collaborative approach to running for and
+holding office. It is widely considered that the first-past-the-post
+system encourages candidates to foster polarization and conflict, in
+order to define what they stand for and galvanize their supporters
+into voting. In a preferential system, however, candidates must appeal
+to a broader range of views in order to win the support of second and
+third round voters, encouraging a more constructive and positive
+approach.
+
+On the other hand, the system does not directly translate vote share
+into seat share, and hence may not succeed in making election outcomes
+results more proportional. This does reduce the possibility, or to
+some the risk, of frequent minority or coalition governments. While
+the measures suggested here do go part-way toward proportionality,
+some voters may still be under-represented or unrepresented in the
+Legislature, and smaller or newer parties may still experience greater
+challenges in winning seats. The questions for Islanders are the
+balance they wish to strike between tradition and innovation, and on
+the pace of change and renewal.
+
+Reflecting our Society: Increasing Representativeness of the
+Legislative Assembly
+
+A widely accepted guiding principle for electoral systems is that they
+should result in legislatures that mirror their society – reflecting
+demographic diversity and a rich range of ideas, interests, and
+perspectives. Such an achievement is seen as having major benefits.
+First and foremost, it strengthens social cohesion and trust in
+democracy, as people from all walks of life feel that they are
+represented in their elected body. It also ensures that public policy
+is enriched with diverse viewpoints and new ideas, and is sensitive to
+the needs of all sectors of society.
+
+Our engagement on representation will consider ways to increase the
+participation of women, Aboriginal Islanders, Islanders with
+disabilities and visible and linguistic minorities as we seek the
+ideal of an elected body that it is truly reflective of Prince Edward
+Island society.
+
+Representation of women – half our society – in legislatures has long
+been a subject of public scrutiny and advocacy. Generally, in Prince
+Edward Island and elsewhere, women experience a greater disparity
+between their demographic weight and their democratic representation
+than any other group in society. While progress has been made, it is
+slow and often halting.
+
+Since Island women gained the vote and the right to serve in elected
+office in 1922, only 26 women have sat in the Legislative Assembly, a
+small fraction in proportion to the hundreds of male representatives
+over that time and before. Currently, women hold a smaller number and
+share of seats than they did twenty years ago.
+
+Much good work has been done by the Coalition for Women in Government
+and other groups to define the factors and barriers contributing to
+this state of affairs. Within our first-past-the-post system, parties
+tend to select the candidates that they see as most likely to win, and
+historically these have been male. Moreover, running for a party’s
+nomination can be challenging for any candidate in terms of time and
+personal finances.
+
+More recently, the Coalition’s research is indicating that when women
+run for office, they are at least as likely to be elected as their
+male counterparts, increasing the incentive for parties to recruit
+women and to nominate them in winnable ridings. The key challenge
+identified by the Coalition, however, is in having women seek
+nomination as candidates.
+
+While political parties play an important role in addressing this,
+research suggests several possible barriers that are within the scope
+of this White Paper to address, including the following:
+
+The heavy workload and high expectations that constituents place on
+their MLAs results in challenges to work-life balance, especially
+among members with caregiving responsibilities.
+
+Legislative Assembly practices such as evening sittings also create
+pressures on work-life balance.
+
+For some observers, the tone of the Legislative Assembly, which at
+best can be uncivil and may be hostile and adversarial, is a
+deterrent.
+
+The Coalition for Women in Government has made a number of
+recommendations to promote gender balance and representativeness in
+the House, some directed to government and others to political
+parties. The recommendations for government included the following:
+Establish a Legislative Special Committee to review the role and
+responsibilities of Members of the Legislative Assembly.
+
+Support MLA’s constituency responsibilities through creation of an
+Ombudsperson position and regional staffed constituency offices to
+assist MLAs with their duties.
+
+Create more predictable and timely Legislative processes through
+elimination of evening sittings and creation of a legislative and
+committee annual calendar.
+
+Provide professional development and training in areas such as
+chairing meetings, time management, work-life balance, and available
+supports.
+
+Establish a caregiver benefit for MLAs with such responsibilities.
+
+With regard to the tone of political discourse, the more collaborative
+tone encouraged by the proposed move to preferential voting would
+create a more positive and collegial environment in the House,
+broadening the appeal of elected office not only for women but for all
+Islanders.
+
+Levelling the Playing Field: Reconsidering Election Financing
+
+Election financing rules play a critically important role in democracy
+in a number ways:
+
+Caps on individual donations, and restrictions on types of donors
+(e.g. no corporations or unions) reduce the capacity and the public
+perceptions of capacity of specific donors to influence favourable
+treatment through large donations.
+
+Caps on spending by parties and by individual candidates during
+election campaigns limit the advantage held by parties with superior
+financial capacity.
+
+Alternatively or additionally, publishing the names and addresses of
+all donors contributing over a certain amount provides transparency
+and a natural check on the provision of large donations.
+
+Taxpayer subsidies for campaign spending to all parties that gain a
+certain threshold of voter support reduce the dependency of all
+parties on individual donations and, depending on the threshold,
+increase access to elected office for small and new parties.
+
+Across Canada and beyond, the trend has been to reform election
+financing systems to increase transparency, ensure fairness, and
+promote participation. In PEI, legislation was first passed in 1988
+and then updated significantly in the spring of 1996. Since then, only
+housekeeping changes have been made to the Election Expenses Act,
+although voluntary improvements to practices have occurred in some
+instances. In the current context of debate about electoral systems,
+various matters regarding election financing might be addressed,
+including the following.
+
+Restrictions on who may donate: Currently, contributions to a
+political party or election campaign in PEI may be made by
+individuals, corporations, and unions, with no requirement for
+residency. This is similar to the majority of other Canadian
+jurisdictions; currently, only Canada, Quebec, and Nova Scotia
+restrict donations to resident individuals, while Manitoba restricts
+donations to individuals, resident or otherwise.
+
+Caps on individual donations: Currently, there are no upper limits on
+how much an individual donor, either a person or a corporation or
+union, may give in Prince Edward Island. The majority of provinces
+(Nova Scotia, New Brunswick, Quebec, Ontario, Manitoba and Alberta)
+currently have maximums ranging from $1,000 (in Quebec) to $6,000 (in
+New Brunswick.) Federally, the limit on individual donations is
+$1,500.
+
+Caps on campaign spending: The Election Expenses Act sets out limits
+on the amount that may be spent during the campaign period, which is
+defined as the period from the dropping of the writ until three months
+after ordinary polling day: Total expenses province-wide incurred by a
+registered party or any person, corporation, trade union,
+unincorporated corporation, or organization acting on its behalf are
+capped at an amount equal to $9.00 per voter in the districts in which
+the party is competing.
+
+Total expenses incurred by any individual candidate or any person,
+corporation, trade union, unincorporated corporation, or organization
+acting on his or her behalf are capped at $2.63 per voter in the
+candidate’s district.
+
+Should spending at either level exceed those limits, the amount of
+subsidy if any (see below) shall be reduced by the amount of the
+excess. The Act also provides for a fine of up to $1,000.
+
+Taxpayer subsidies to the electoral process: Currently, the Election
+Expenses Act provides for a subsidy to candidates winning at least 15%
+of the vote within their ridings.5 This funding support recognizes the
+value of a vibrant electoral process to our democracy, and helps to
+reduce the dependency of candidates and parties on individual and
+corporate donations. It also recognizes and mitigates the impacts of
+stricter campaign financing rules. Following the May 2015 election,
+however, the system has been criticized for setting the bar too high
+at 15% of vote share, and thus disadvantaging small or new parties
+with province-wide rather than regionally concentrated support.
+
+The subsidy is set at the lesser of the candidate’s actual expenses as
+filed with the Chief Electoral Officer or $1.12 per registered voter
+in the riding, subject to a minimum subsidy of $1,500 and a maximum of
+$3,000. As well, each registered party holding one or more seats in
+the Legislature receives an annual allowance of $3.01 for each vote
+received province-wide in the most recent general election. Both
+amounts have been indexed since the original subsidies of 75 cents and
+$2.00 respectively. It should be noted that since the 1990s, by
+agreement, neither of the two major parties have collected their
+provincial subsidies; the subsidies have gone only to individual
+candidates.
+
+Hearing from Islanders: Engagement Processes
+
+Electoral reform affects every Islander, and Government is committed
+to gaining the broadest possible public input on the important issues
+raised in this paper.
+
+A Special Legislative Committee will be struck to guide the process.
+The Committee will engage with experts, interested groups and
+Islanders to clarify the issues and options.
+
+Importantly, the Committee will define the plebiscite question to be
+presented to Islanders with regard to the future voting system. The
+Committee will present this question in the Legislative Assembly in
+its interim report, to be submitted by November 30, 2015. Further, the
+plebiscite question itself will be guided by a preferential ballot on
+the three voting options: (i) first past the post, the current system,
+(ii) a preferential ballot, (iii) proportional representation.
+
+During the fall and winter of 2015-2016, the Legislative Committee
+will reach out to Islanders to hear their views. In keeping with this
+Government's commitment to maintain a face-to-face relationship with
+Islanders, public meetings will be held across the province. Written
+submissions will be welcomed, with comment on any or all of the
+matters set out in this discussion paper, as well as other
+democracy-related issues of concern. Comment can be submitted by mail,
+email, or on the Committee's website.
+
+Islanders will also be invited to take part in the conversation about
+democratic renewal on the Committee's Facebook page, and via Twitter.
+
+The Committee will work over the winter to finalize its report, in
+order that it may be tabled during the Spring 2016 sitting of the
+Legislative Assembly, to direct any proposed legislative or statutory
+changes, and to inform the work of the Electoral Boundaries Commission
+to be appointed in May 2016.
+
+Conclusion
+
+Prince Edward Island’s democratic history is strong. The purpose of
+the exercise we are embarking on with this White Paper is to ensure
+our principal democratic institution – our electoral process – is
+developing in a manner consistent with the expectations and hopes of
+all Islanders. The contributions and ongoing commitment from all
+residents of Prince Edward Island is critical both to this exercise
+and ultimately to the democratic process itself.
+
+It will be important that our steps are firm and forward as we seek to
+advance our democratic strength. We look forward to the contributions
+from many voices in the coming months as we consider the issues raised
+in this White Paper and as we work together for democratic renewal in
+Prince Edward Island.
+
+References and Suggested Reading
+
+I. Reports and Commissions
+
+British Columbia Citizens’ Assembly on Electoral Reform, Making Every
+Vote Count: The Case for Electoral Reform in British Columbia.
+Victoria: December 2004
+
+Carruthers, Norman. 2003 Prince Edward Island Electoral Reform
+Commission Report. [Charlottetown, PEI]: Government of Prince Edward
+Island, 2003.
+
+Cousins, J. Andrew. “Electoral Reform for Prince Edward Island: A
+Discussion Paper,” Institute of Island Studies, University of Prince
+Edward Island, Charlottetown, 2000.
+
+Croken, Lowell, and Nora Palmer, comp. Prince Edward Island Historical
+Review of Provincial Election Results: 1900 to 26 February 2001.
+Charlottetown: Elections PEI, 2001.
+
+DesRoches, J. S., chair. Report of the Royal Commission on Electoral
+Reform. Charlottetown, PEI: Queen’s Printer, 1962.
+
+Elections Prince Edward Island. Report on Proportional Representation.
+Charlottetown: Elections PEI, 2002.
+
+Estates General on the Reform of Democratic Institutions (Quebec),
+Take your Rightful Place! Quebec City: March 2003
+
+Law Commission of Canada, Voting Counts. Ottawa: Queens Printer, 2004
+
+Law Commission of Canada, Renewing Democracy: Debating Electoral
+Reform in Canada. Ottawa: Queens Printer, 2002
+
+Legislative Assembly of Prince Edward Island. Report of the Electoral
+Boundaries Committee. Charlottetown. 2nd sess., 53rd General Assembly,
+1975.
+
+Legislative Assembly of Prince Edward Island. Report of the Special
+Legislative Committee on Electoral Boundaries. 3rd sess., 62nd General
+Assembly, May 2006. Committee Report 1.
+
+MacPherson, Lynwood, chair. Changing the Political Landscape: Report
+of the Election Act and Electoral Boundaries Commission.
+Charlottetown: Queen’s Printer, 1994.
+
+New Brunswick Commission on Legislative Democracy, Final Report and
+Recommendations. Fredericton: December 2004
+
+Ontario Citizens Assembly on Electoral Reform: One Ballot, Two Votes:
+A New Way to Vote in Ontario. Toronto: Publications Ontario, May 2007
+
+Report of the Electoral Boundaries Commission. Charlottetown: Queen’s
+Printer, 2004.
+
+II. Secondary Sources
+
+Bailie, Warren R., and David Johnson. “Drawing the Electoral Line.”
+Options Politiques (November 1992): 21-­‐24.
+
+Barnes, Andre, and Robertson, James, Electoral Reform Initiatives in
+Canadian Provinces. Ottawa: Parliamentary Information and Research
+Service, 2009
+
+Clark, Marlene Russell. “Island Politics.” In Canada’s Smallest
+Province: A History of P.E.I., edited by F.W.P. Bolger, 289-­‐327.
+Charlottetown: Prince Edward Island 1973 Centennial Commission, 1973.
+
+Clark, Marlene Russell, “The Franchise in Prince Edward Island and its
+Relation to Island Politics and Other Political Institutions.” M.A.
+Thesis, Dalhousie University, 1968.
+
+Crossley, John. “Picture This: Women Politicians Hold Key Positions in
+Prince Edward Island.” In In the Presence of Women: Representation in
+Canadian Governments, edited by Linda Trimble and Jane Arscott,
+278-­‐307. Toronto: Harcourt Brace, 1997.
+
+Driscoll, Fred. “History and Politics of Prince Edward Island.”
+Canadian Parliamentary Review 11, no. 2 (Summer 1988): 1-­‐13
+
+MacDonald, Edward. If You’re Stronghearted: Prince Edward Island in
+the Twentieth Century. Charlottetown: Prince Edward Island Museum and
+Heritage Foundation, 2000.
+
+McKenna, Peter. “Opting Out of Electoral Reform: Why Prince Edward
+Island Chose the Status Quo.” Options Politique (June 2006): 58-­‐61.
+
+MacKinnon, Frank. The Government of Prince Edward Island. Toronto:
+University of Toronto Press, 1951.
+
+PEI Coalition for Women in Government, “It’s About Time: An Initiative
+to Elect Women in PEI: Research Findings and Conclusions Summary.”
+Charlottetown, 2006
+
+PEI Coalition for Women in Government, Whose Job is it Anyway? The
+Life and Work of an MLA. Charlottetown, January 2009
+
+Samara, Democracy 360: A Report Card on How Canadians Communicate,
+Participate, and Lead in Politics. Accessed June 18, 2015.
+
+Samara, Democracy 360: Provincial Profiles. Accessed June 18, 2015.
+
+Spierenburg, H. Historical Statistics of Prince Edward Island.
+Charlottetown: Department of Provincial Treasury, 2007. Accessed 21
+June 2015.
+
+Stephenson, Laura B. and Tanguay, Brian, “Ontario’s Referendum on
+Proportional Representation: Why Citizens Said No,” Choices (September
+2009), Institute for Research on Public Policy
+
+Tremblay, Manon, “Women and Political Participation in Canada,”
+Electoral Insight (January 2001).
+
+Wicks, Ann and Lang-Dion, Raylene, “Equal Voice: Electing More Women
+in Canada,” Canadian Parliamentary Review (Spring 2007): 36-39
+
+III. Legislation
+
+Election Act R.S.P.E.I. 1988, cap. E-1.1
+
+Election Expenses Act R.S.P.E.I. 1988 cap. E-2
+
+Electoral Boundaries Act R.S.P.E.I. 1988, cap. E-1.1
+
+Electoral Boundaries Act, S.P.E.I. 1994, cap 13
+
+IV. Other
+
+MacKinnon v. Government of PEI (1993). PEI Supreme Court, Trial
+Division.
+
+“A New Electoral Map for Prince Edward Island: A Private Member’s
+Proposal to the Legislative Assembly of Prince Edward Island.”
+Legislative Assembly of Prince Edward Island, 1994.
+
+Appendix: Chronology of Prince Edward Island’s Democratic Evolution
+
+1720-1725 Île Saint-Jean founded as a proprietary colony
+
+1726-1758 Île Saint-Jean administered as a satellite of Royal Colony
+in Île Royale
+
+1763 Treaty of Paris transfers ownership of Island to Great Britain;
+falls under jurisdiction of Nova Scotia
+
+1769 St. John’s Island granted colonial status
+
+1770 Governor Patterson appoints a seven-member Council
+
+1773 First House of Assembly elected: one riding, 18 members; Council
+for a time doubles as both Legislative and Executive Council
+
+1774 Governor given discretion in timing and format for elections
+
+1784 Governorship reduced in status to Lieutenant-Governor under the
+nominal direction of first Nova Scotia, and then Canada
+
+1787 Island divided into three county ridings with four members at
+large from each county and two representatives from each county
+capital and royalty
+
+1803 First Election Act formalizes existing electoral practice
+
+1804 Length of term in Legislature set at seven years
+
+1830 Roman Catholics (45% of the population) given right to vote and
+hold public office, one year after enfranchisement in Great Britain
+
+1833 Length of term for Legislature set at four years
+
+1834 Legislature no longer dissolved upon death of reigning monarch
+
+1838 House of Assembly enlarged to 24 members elected from 12
+dual-member ridings, four in each county, including two members from
+each county capital and royalty
+
+1839 Legislative and Executive Councils formally separated, making it
+possible for members of the elected House of Assembly to be named to
+the Executive Council
+
+1848 Multi-day voting abolished in wake of bloody Belfast Riot of 1847
+
+1851 Responsible Government granted; henceforth, the Executive Council
+(i.e. the Cabinet) chosen on recommendation of leader commanding a
+majority in the elected House of Assembly
+
+1856 House of Assembly enlarged to 30 members, chosen from 15
+dual-member constituency
+
+1861 Capital of Prince County (and its seats) moved from Princetown to
+Summerside
+
+1862 Legislative Council made elective, with 13 members, chosen from
+two dual-member ridings per county with one member from Charlottetown;
+property franchise
+
+1873 Prince Edward Island enters Confederation
+
+1877 Voting by secret ballot replaces oral, open voting
+
+1879 Voting by secret ballot repealed, largely because of expense
+
+1893 Riding of 5th Kings (Georgetown Royalty) enlarged to encompass
+surrounding headlands in order to address low population in the riding
+
+1893 Legislative Council and House of Assembly are combined into a
+30-member “Legislative Assembly,” with 15 dual-member ridings, five
+per county. Each riding elects Assemblyman (MLA), elected according to
+adult male suffrage and a Councillor (MLC), elected on a property
+franchise. Any voter owning $325 in property in a constituency can
+vote in that riding
+
+1913 Secret ballot re-introduced
+
+1922 Women receive the right to vote and hold public office
+
+1951 The first woman runs for elected office, Hilda Ramsay, CCF
+
+1962 Report of the Royal Commission on Electoral Reform
+
+1963 Aboriginal people given right to vote in provincial elections
+
+1964 Election Act abolishes property vote and multiple voting;
+re-distribution eliminates 5th Kings riding and creates 6th Queens
+
+1966 Amendment to the Election Act restores 5th Kings and enlarges
+Legislative Assembly to 32 members
+
+1970 The first woman is elected to the Legislative Assembly, Jean
+Canfield
+
+1974 Electoral Boundaries Committee
+
+1988 Electoral Boundaries Act provides for periodic consideration of
+electoral boundaries
+
+1991-1993 MacKinnon v. Government of PEI argues that vast imbalance in
+number of voters between Island constituencies violates Charter of
+Rights and Freedoms by denying “voter parity.” Judge Desroches finds
+for plaintiff
+
+1993 Catherine Callbeck becomes Canada’s first female Premier elected
+to office
+
+1994 Election Act and Electoral Boundaries Commission recommends 30
+single-member ridings (10 in Prince County, 15 in Queens, and 5 in
+Kings)
+
+1994 Private member’s bill introduced by Ross Young results in a
+27-seat Legislature (9 seats in Prince County, 13 in Queens, and 5 in
+Kings)
+
+1997 A second, fall sitting of the Legislature initiated
+
+2003 Hon. Norman Carruthers chairs one-man commission on electoral
+reform; recommends a Mixed Member electoral system, featuring 21
+members elected by plurality and 10 members elected from party lists
+
+2004 Commission on PEI’s Electoral Future adjusts proposal to include
+17 members elected by plurality and 10 elected from party lists
+
+2004 Report of the Electoral Boundaries Commission re-draws riding
+boundaries
+
+2005 Referendum on electoral reform: voter turnout of 33%; 64%
+opposed, 36% in favour
+
+2006 Legislature’s Special Committee on Electoral Boundaries tables
+report urging community concerns be factored into electoral boundaries
+

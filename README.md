@@ -11,6 +11,7 @@ What you'll find here right now are versions of the *White Paper on Democratic R
 * [ePub](whitepaper/epub)
 * [HTML](whitepaper/html)
 * [Kindle MOBI](whitepaper/kindle) 
+* [Plain Text](whitepaper/txt)
 
 as well as a reference copy of [the original PDF file released by the province](whitepaper/pdf).
 
